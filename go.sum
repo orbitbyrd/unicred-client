@@ -1,5 +1,3 @@
-github.com/Versent/unicreds v1.5.0 h1:v2O5fH0S83lfuSneNP8ij72ioQg8SPE2cJW/0JCHKJk=
-github.com/Versent/unicreds v1.5.0/go.mod h1:3bKwwRss1jUSyTND9NMeBRqp0E3xvpuAD8n4VADA1xc=
 github.com/Versent/unicreds v1.5.1-0.20180327234242-7135c859e003 h1:YNSFqniGggekjaULk1xwW44VP6cYqRjRthzdWLNAh4M=
 github.com/Versent/unicreds v1.5.1-0.20180327234242-7135c859e003/go.mod h1:3bKwwRss1jUSyTND9NMeBRqp0E3xvpuAD8n4VADA1xc=
 github.com/apex/log v1.9.0 h1:FHtw/xuaM8AgmvDDTI9fiwoAL25Sq2cxojnZICUU8l0=
