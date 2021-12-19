@@ -1,4 +1,4 @@
-module github.com/orbitbyrd/unicreds-client
+module github.com/orbitbyrd/unicred-client
 
 go 1.15
 
