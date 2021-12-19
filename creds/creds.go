@@ -1,4 +1,4 @@
-package cred
+package creds
 
 import (
 	"github.com/Versent/unicreds"
